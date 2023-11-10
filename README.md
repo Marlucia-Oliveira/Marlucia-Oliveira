@@ -1,7 +1,7 @@
 ## Olá, Eu sou  Marlucia Oliveira 🖖
 
-* 🎓 Estou cursando o 2° semestre  de Gestão de Tecnologia da Informação
-*  📚 Estou fazendo um Bootcamp da DIO (Spread Fullstack Developer)
+* 🎓 Estou cursando o 4° semestre  de Gestão de Tecnologia da Informação
+*  📚 Estou fazendo Bootcamp da DIO 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliveirahlucy/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571994140431)
